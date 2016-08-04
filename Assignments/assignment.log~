@@ -1,0 +1,32 @@
+My hostname is
+Webonise-Desktop
+The OS name and version is
+Linux Webonise-Desktop 3.13.0-32-generic #57-Ubuntu SMP Tue Jul 15 03:51:08 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+Home Path is
+/home/webonise
+Users logged are
+webonise :0           2016-08-04 14:52   ?          1388 (:0)
+webonise pts/0        2016-08-04 15:10 00:03        3330 (:0)
+webonise pts/5        2016-08-04 15:11 00:02        3330 (:0)
+webonise pts/9        2016-08-04 15:13   .          3330 (:0)
+Groups are
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+files located are
+./5.sh~
+./1.sh~
+./console.log~
+./assignment.log
+./assignment.log~
+./2.sh~
+./1.sh
+./renameaf
+./public_html/readme.txt
+./3.sh
+./6.sh
+./2.sh
+./4.sh
+./renameb.txt
+./5.sh
+./renamea.txt
+./3.sh~
+
